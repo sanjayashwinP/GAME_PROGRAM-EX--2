@@ -93,12 +93,9 @@ Create a playable third-person character in Unreal Engine that can move and run,
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/53daa747-68a0-4218-9a06-c28fc2e3c6a7" />
 
-
-<img width="1182" height="572" alt="image" src="https://github.com/user-attachments/assets/720b1a57-7301-4d29-9580-4ffc2d416e04" />
-
-
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a9c98f62-7c62-4e5e-a023-e6d9b8e5de24" />
 
+<img width="1182" height="572" alt="image" src="https://github.com/user-attachments/assets/720b1a57-7301-4d29-9580-4ffc2d416e04" />
 
 # RESULT
 
